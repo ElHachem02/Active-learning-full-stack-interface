@@ -1,0 +1,4 @@
+graft data
+
+include src/dummy_server/db/train_soundscape_labels.csv
+include src/dummy_server/model/birds_to_labels.json
